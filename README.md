@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** mahesh-gfx, repo_name, twitter_handle, email, project_title, project_description
+*** mahesh-gfx, Netflix-Clone, Mah14ADH, maheshadhikaritma@gmail.com, Netflix Clone, project_description
 -->
 
 
@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mahesh-gfx/repo_name">
+  <a href="https://github.com/mahesh-gfx/Netflix-Clone">
     <img src="assets\png\nficon2016.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -44,11 +44,11 @@
     <a href="https://github.com/mahesh-gfx/Netflix-Clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mahesh-gfx/repo_name">View Demo</a>
+    <a href="https://github.com/mahesh-gfx/Netflix-Clone">View Demo</a>
     ·
-    <a href="https://github.com/mahesh-gfx/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/mahesh-gfx/Netflix-Clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mahesh-gfx/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/mahesh-gfx/Netflix-Clone/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`mahesh-gfx`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`mahesh-gfx`, `Netflix-Clone`, `Mah14ADH`, `maheshadhikaritma@gmail.com`, `Netflix Clone`, `project_description`
 
 
 ### Built With
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mahesh-gfx/repo_name.git
+   git clone https://github.com/mahesh-gfx/Netflix-Clone.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/mahesh-gfx/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/mahesh-gfx/Netflix-Clone/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +165,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@Mah14ADH](https://twitter.com/Mah14ADH) - maheshadhikaritma@gmail.com
 
-Project Link: [https://github.com/mahesh-gfx/repo_name](https://github.com/mahesh-gfx/repo_name)
+Project Link: [https://github.com/mahesh-gfx/Netflix-Clone](https://github.com/mahesh-gfx/Netflix-Clone)
 
 
 
@@ -189,10 +189,10 @@ Project Link: [https://github.com/mahesh-gfx/repo_name](https://github.com/mahes
 [forks-shield]: https://img.shields.io/github/forks/mahesh-gfx/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/mahesh-gfx/Netflix-Clone/network/members
 [stars-shield]: https://img.shields.io/github/stars/mahesh-gfx/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/mahesh-gfx/repo_name/stargazers
+[stars-url]: https://github.com/mahesh-gfx/Netflix-Clone/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mahesh-gfx/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/mahesh-gfx/Netflix-Clone/issues
 [license-shield]: https://img.shields.io/github/license/mahesh-gfx/repo.svg?style=for-the-badge
-[license-url]: https://github.com/mahesh-gfx/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/mahesh-gfx/Netflix-Clone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mahesh-gfx
