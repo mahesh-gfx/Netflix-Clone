@@ -24,7 +24,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -71,11 +70,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -84,11 +80,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/mahesh-gfx/Netflix-Clone/tree/main/Screenshots)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`mahesh-gfx`, `Netflix-Clone`, `Mah14ADH`, `maheshadhikaritma@gmail.com`, `Netflix Clone`, `project_description`
+This project was done as an assignment for **'Cohort 4'** organised by [Vidhya Skill School](https://www.linkedin.com/company/vidhya-classes/?originalSubdomain=in) as a part of their **'I am an Engineer'** program.
 
 
 ### Built With
@@ -107,8 +101,8 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 To view, edit, or update this project, your system should have the following tools and plugins installed.
-* [Visual Studio Code]() (VS Code)
-* Live Server plugin installed in VS Code.
+* [Visual Studio Code](https://code.visualstudio.com/download) (VS Code)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin installed in VS Code.
   
 
 ### Installation
@@ -148,15 +142,16 @@ Project Link: [https://github.com/mahesh-gfx/Netflix-Clone](https://github.com/m
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mahesh-gfx/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/mahesh-gfx/netflix-clone.svg?style=for-the-badge
 [contributors-url]: https://github.com/mahesh-gfx/Netflix-Clone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mahesh-gfx/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mahesh-gfx/netflix-clone.svg?style=for-the-badge
 [forks-url]: https://github.com/mahesh-gfx/Netflix-Clone/network/members
-[stars-shield]: https://img.shields.io/github/stars/mahesh-gfx/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mahesh-gfx/netflix-clone.svg?style=for-the-badge
 [stars-url]: https://github.com/mahesh-gfx/Netflix-Clone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mahesh-gfx/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mahesh-gfx/netflix-clone.svg?style=for-the-badge
 [issues-url]: https://github.com/mahesh-gfx/Netflix-Clone/issues
-[license-shield]: https://img.shields.io/github/license/mahesh-gfx/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mahesh-gfx/netflix-clone.svg?style=for-the-badge
 [license-url]: https://github.com/mahesh-gfx/Netflix-Clone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mahesh-gfx
+[product-screenshot]: Screenshots\1.PNG
