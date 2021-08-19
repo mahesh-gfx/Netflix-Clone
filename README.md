@@ -74,7 +74,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -107,11 +106,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To view, edit, or update this project, your system should have the following tools and plugins installed.
+* [Visual Studio Code]() (VS Code)
+* Live Server plugin installed in VS Code.
+  
 
 ### Installation
 
@@ -119,27 +117,8 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/mahesh-gfx/Netflix-Clone.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/mahesh-gfx/Netflix-Clone/issues) for a list of proposed features (and known issues).
-
+2. Open the project directory in VS code
+3. To run the project, right click on the index.html and click on 'Open with Live Server'.
 
 
 <!-- CONTRIBUTING -->
@@ -155,28 +134,13 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Mah14ADH](https://twitter.com/Mah14ADH) - maheshadhikaritma@gmail.com
+Mahesh Adhikari - [@Mah14ADH](https://twitter.com/Mah14ADH) - maheshadhikaritma@gmail.com
 
 Project Link: [https://github.com/mahesh-gfx/Netflix-Clone](https://github.com/mahesh-gfx/Netflix-Clone)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
