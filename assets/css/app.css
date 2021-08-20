@@ -83,6 +83,7 @@ body {
   margin-left: 25px;
   text-decoration: none;
   border-radius: 3px;
+  margin-bottom: 28px;
 }
 .white {
   color: white;
@@ -271,13 +272,4 @@ li {
 
 #footer-country {
   margin: 24px 0 13px;
-}
-
-.w-20 {
-  width: 20%;
-  height: 33%;
-}
-
-.sign-in-wrap {
-  padding: 60px 68px 40px;
 }
