@@ -43,7 +43,7 @@
     <a href="https://github.com/mahesh-gfx/Netflix-Clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mahesh-gfx/Netflix-Clone">View Demo</a>
+    <a href="https://mahesh-gfx.github.io/Netflix-Clone/">View Demo</a>
     ·
     <a href="https://github.com/mahesh-gfx/Netflix-Clone/issues">Report Bug</a>
     ·

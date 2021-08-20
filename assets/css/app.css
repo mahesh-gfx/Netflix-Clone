@@ -272,3 +272,12 @@ li {
 #footer-country {
   margin: 24px 0 13px;
 }
+
+.w-20 {
+  width: 20%;
+  height: 33%;
+}
+
+.sign-in-wrap {
+  padding: 60px 68px 40px;
+}
