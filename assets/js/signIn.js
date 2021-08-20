@@ -1,18 +1,17 @@
-var inp = document.getElementsByClassName("inputs");
+var inp = document.getElementsByClassName("input-box");
 var i = 0;
 
 for (i = 0; i < inp.length; i++) {
-  inp[i].addEventListener("click", () => {
-    console.log("clicked element");
+  inp[i].addEventListener("click", function () {
+    this.classList.toggle("active");
   });
 }
-// ,
-//     function () {
+
+// var inp = document.getElementsByClassName("input-box");
+// var i = 0;
+
+// for (i = 0; i < inp.length; i++) {
+//   inp[i].addEventListener("click", function () {
 //     this.classList.toggle("active");
-//     var panel = this.nextElementSibling;
-//     if (panel.style.display == "block") {
-//       panel.style.display = "none";
-//     } else {
-//       panel.style.display = "block";
-//     }
-//   }
+//   });
+// }
